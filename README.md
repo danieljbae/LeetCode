@@ -1,4 +1,4 @@
-# Problems from Blind List, with analysis. 
+# Leetcode Problems from Blind List and random Qs:
 
 ## Files included: 
 * Optimal Solutions (w/ bruteforce and suboptimal) 
