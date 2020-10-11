@@ -23,3 +23,7 @@ class Solution(object):
             fast = fast.next.next
         
         return True
+                
+        
+        
+        

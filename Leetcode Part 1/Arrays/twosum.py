@@ -6,10 +6,6 @@ Created on Mon Jul 20 20:57:07 2020
 """
 # Question: https://leetcode.com/problems/two-sum/
 
-
-
-
-
 diff_dict = {}
 
 class Solution: 

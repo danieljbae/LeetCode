@@ -18,6 +18,3 @@ class Solution(object):
         head.next.next = head # reversal - logic: next node will now point to current node
         head.next = None # remove existing link, such that linkedlist remains singly linked
         return rev_head # return recursion - upwards stack 
-        
-            
-        
