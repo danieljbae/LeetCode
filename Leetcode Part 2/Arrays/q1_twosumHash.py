@@ -17,4 +17,3 @@ class Solution(object):
             else:
                 diff_d[nums[i]] = i
                 
-        

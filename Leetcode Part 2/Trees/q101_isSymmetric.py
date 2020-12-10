@@ -35,6 +35,15 @@ class Solution(object):
         
         return helper(root.left, root.right)
 
-        
+
+
+"""
+Base Cases:
+
+If both subtrees root nodes are Null, continue exploring (as we do not know if Tree is symmetric or not yet)
+If only one of the subtree root nodes are Null then return False
+If both root nodes are valid and not equal, return False
+
+"""
         
         
